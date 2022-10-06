@@ -15,11 +15,13 @@ public class AssistanceServiceImpl implements AssistanceService {
 
     @Autowired
     public AssistanceServiceImpl(AssistanceRepository repository){
+
         this.repository = repository;
     }
 
     @Override
     public List<Assistance> getAssistanceList() {
+
         return repository.findAll();
     }
 }
