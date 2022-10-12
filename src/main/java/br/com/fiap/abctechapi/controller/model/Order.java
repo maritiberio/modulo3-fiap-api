@@ -35,6 +35,7 @@ public class Order {
     private OrderLocation endOrderLocation;
 
     public boolean hasMinAssists (){
+
         return assists.size() > 0;
     }
 
