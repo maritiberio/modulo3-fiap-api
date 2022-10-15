@@ -16,3 +16,4 @@ INSERT INTO assistances (name, description) VALUES ('Manutenção em geladeira',
 INSERT INTO assistances (name, description) VALUES ('Manutenção em máquina de lavar', 'Reparo sem necessidade de compra de peças');
 INSERT INTO assistances (name, description) VALUES ('Manutenção de secadora de roupa', 'Reparo sem necessidade de compra de peças');
 INSERT INTO assistances (name, description) VALUES ('Manutenção de ar condicionado', 'Reparo sem necessidade de compra de peças');
+INSERT INTO assistances (name, description) VALUES ('Manutenção de chuveiro', 'Reparo sem necessidade de compra de peças');
