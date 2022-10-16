@@ -1,6 +1,6 @@
 package br.com.fiap.abctechapi.repository;
 
-import br.com.fiap.abctechapi.controller.model.Order;
+import br.com.fiap.abctechapi.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

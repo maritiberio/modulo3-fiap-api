@@ -1,6 +1,6 @@
 package br.com.fiap.abctechapi.service.impl;
 
-import br.com.fiap.abctechapi.controller.model.Assistance;
+import br.com.fiap.abctechapi.model.Assistance;
 import br.com.fiap.abctechapi.repository.AssistanceRepository;
 import br.com.fiap.abctechapi.service.AssistanceService;
 import org.springframework.beans.factory.annotation.Autowired;

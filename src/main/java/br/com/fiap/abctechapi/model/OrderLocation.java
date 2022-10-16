@@ -1,4 +1,4 @@
-package br.com.fiap.abctechapi.controller.model;
+package br.com.fiap.abctechapi.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,7 +1,7 @@
 package br.com.fiap.abctechapi.application.impl;
 import br.com.fiap.abctechapi.application.AssistanceApplication;
 import br.com.fiap.abctechapi.application.dto.AssistDto;
-import br.com.fiap.abctechapi.controller.model.Assistance;
+import br.com.fiap.abctechapi.model.Assistance;
 import br.com.fiap.abctechapi.service.AssistanceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

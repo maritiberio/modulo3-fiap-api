@@ -1,6 +1,6 @@
 package br.com.fiap.abctechapi.service;
 
-import br.com.fiap.abctechapi.controller.model.Order;
+import br.com.fiap.abctechapi.model.Order;
 
 import java.util.List;
 

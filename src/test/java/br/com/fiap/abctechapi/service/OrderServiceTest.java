@@ -3,8 +3,8 @@ package br.com.fiap.abctechapi.service;
 
 import br.com.fiap.abctechapi.handler.expcetion.MaxAssistsException;
 import br.com.fiap.abctechapi.handler.expcetion.MinimumAssistRequiredException;
-import br.com.fiap.abctechapi.controller.model.Assistance;
-import br.com.fiap.abctechapi.controller.model.Order;
+import br.com.fiap.abctechapi.model.Assistance;
+import br.com.fiap.abctechapi.model.Order;
 import br.com.fiap.abctechapi.repository.AssistanceRepository;
 import br.com.fiap.abctechapi.repository.OrderRepository;
 import br.com.fiap.abctechapi.service.impl.OrderServiceImpl;
