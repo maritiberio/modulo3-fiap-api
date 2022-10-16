@@ -31,6 +31,4 @@ public class OrderController {
     public ResponseEntity<List<OrderResponseDto>> listOrdersOperator(@PathVariable Long operatorId){
         return ResponseEntity.ok(orderApplication.listOrderByOperatorId(operatorId));
     }
-
-
 }
